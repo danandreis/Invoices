@@ -1,0 +1,24 @@
+D:\Udemy\Facturi\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\Udemy\Facturi\Domain\bin\Debug\net6.0\Domain.dll
+D:\Udemy\Facturi\Domain\bin\Debug\net6.0\Domain.pdb
+D:\Udemy\Facturi\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\Udemy\Facturi\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\Facturi\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\Udemy\Facturi\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\Udemy\Facturi\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\Udemy\Facturi\Domain\obj\Debug\net6.0\Domain.dll
+D:\Udemy\Facturi\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\Udemy\Facturi\Domain\obj\Debug\net6.0\Domain.pdb
+D:\Udemy\Facturi\Domain\obj\Debug\net6.0\ref\Domain.dll
+E:\Udemy\Facturi _en\Domain\bin\Debug\net6.0\Domain.deps.json
+E:\Udemy\Facturi _en\Domain\bin\Debug\net6.0\Domain.dll
+E:\Udemy\Facturi _en\Domain\bin\Debug\net6.0\Domain.pdb
+E:\Udemy\Facturi _en\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+E:\Udemy\Facturi _en\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Udemy\Facturi _en\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+E:\Udemy\Facturi _en\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+E:\Udemy\Facturi _en\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+E:\Udemy\Facturi _en\Domain\obj\Debug\net6.0\Domain.dll
+E:\Udemy\Facturi _en\Domain\obj\Debug\net6.0\refint\Domain.dll
+E:\Udemy\Facturi _en\Domain\obj\Debug\net6.0\Domain.pdb
+E:\Udemy\Facturi _en\Domain\obj\Debug\net6.0\ref\Domain.dll

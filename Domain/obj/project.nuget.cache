@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JKfj7QPG45+bxfPtAI2uN2iRUiw1Oe9vB3HuZzo9ksxvlnOyoENE5q76TURFAirN3qUkeNDn0/3cq5PseUk4CA==",
+  "success": true,
+  "projectFilePath": "E:\\Udemy\\Facturi _en\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dan_a\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\dan_a\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\dan_a\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

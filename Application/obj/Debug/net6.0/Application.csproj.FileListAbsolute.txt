@@ -1,0 +1,34 @@
+D:\Udemy\Facturi\Application\bin\Debug\net6.0\Application.deps.json
+D:\Udemy\Facturi\Application\bin\Debug\net6.0\Application.dll
+D:\Udemy\Facturi\Application\bin\Debug\net6.0\Application.pdb
+D:\Udemy\Facturi\Application\bin\Debug\net6.0\Domain.dll
+D:\Udemy\Facturi\Application\bin\Debug\net6.0\Persistence.dll
+D:\Udemy\Facturi\Application\bin\Debug\net6.0\Domain.pdb
+D:\Udemy\Facturi\Application\bin\Debug\net6.0\Persistence.pdb
+D:\Udemy\Facturi\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+D:\Udemy\Facturi\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\Facturi\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+D:\Udemy\Facturi\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+D:\Udemy\Facturi\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+D:\Udemy\Facturi\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+D:\Udemy\Facturi\Application\obj\Debug\net6.0\Application.dll
+D:\Udemy\Facturi\Application\obj\Debug\net6.0\refint\Application.dll
+D:\Udemy\Facturi\Application\obj\Debug\net6.0\Application.pdb
+D:\Udemy\Facturi\Application\obj\Debug\net6.0\ref\Application.dll
+E:\Udemy\Facturi _en\Application\bin\Debug\net6.0\Application.deps.json
+E:\Udemy\Facturi _en\Application\bin\Debug\net6.0\Application.dll
+E:\Udemy\Facturi _en\Application\bin\Debug\net6.0\Application.pdb
+E:\Udemy\Facturi _en\Application\bin\Debug\net6.0\Domain.dll
+E:\Udemy\Facturi _en\Application\bin\Debug\net6.0\Persistence.dll
+E:\Udemy\Facturi _en\Application\bin\Debug\net6.0\Domain.pdb
+E:\Udemy\Facturi _en\Application\bin\Debug\net6.0\Persistence.pdb
+E:\Udemy\Facturi _en\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+E:\Udemy\Facturi _en\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Udemy\Facturi _en\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+E:\Udemy\Facturi _en\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+E:\Udemy\Facturi _en\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+E:\Udemy\Facturi _en\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+E:\Udemy\Facturi _en\Application\obj\Debug\net6.0\Application.dll
+E:\Udemy\Facturi _en\Application\obj\Debug\net6.0\refint\Application.dll
+E:\Udemy\Facturi _en\Application\obj\Debug\net6.0\Application.pdb
+E:\Udemy\Facturi _en\Application\obj\Debug\net6.0\ref\Application.dll

@@ -1,0 +1,172 @@
+D:\Udemy\Facturi\API\bin\Debug\net6.0\appsettings.Development.json
+D:\Udemy\Facturi\API\bin\Debug\net6.0\appsettings.json
+D:\Udemy\Facturi\API\bin\Debug\net6.0\API.exe
+D:\Udemy\Facturi\API\bin\Debug\net6.0\API.deps.json
+D:\Udemy\Facturi\API\bin\Debug\net6.0\API.runtimeconfig.json
+D:\Udemy\Facturi\API\bin\Debug\net6.0\API.dll
+D:\Udemy\Facturi\API\bin\Debug\net6.0\API.pdb
+D:\Udemy\Facturi\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Udemy\Facturi\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Udemy\Facturi\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Udemy\Facturi\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Udemy\Facturi\API\bin\Debug\net6.0\Application.dll
+D:\Udemy\Facturi\API\bin\Debug\net6.0\Domain.dll
+D:\Udemy\Facturi\API\bin\Debug\net6.0\Persistence.dll
+D:\Udemy\Facturi\API\bin\Debug\net6.0\Application.pdb
+D:\Udemy\Facturi\API\bin\Debug\net6.0\Domain.pdb
+D:\Udemy\Facturi\API\bin\Debug\net6.0\Persistence.pdb
+D:\Udemy\Facturi\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+D:\Udemy\Facturi\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\Facturi\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+D:\Udemy\Facturi\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+D:\Udemy\Facturi\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+D:\Udemy\Facturi\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+D:\Udemy\Facturi\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+D:\Udemy\Facturi\API\obj\Debug\net6.0\staticwebassets.build.json
+D:\Udemy\Facturi\API\obj\Debug\net6.0\staticwebassets.development.json
+D:\Udemy\Facturi\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+D:\Udemy\Facturi\API\obj\Debug\net6.0\API.csproj.CopyComplete
+D:\Udemy\Facturi\API\obj\Debug\net6.0\API.dll
+D:\Udemy\Facturi\API\obj\Debug\net6.0\refint\API.dll
+D:\Udemy\Facturi\API\obj\Debug\net6.0\API.pdb
+D:\Udemy\Facturi\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+D:\Udemy\Facturi\API\obj\Debug\net6.0\ref\API.dll
+D:\Udemy\Facturi\API\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\Udemy\Facturi\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Udemy\Facturi\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Udemy\Facturi\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Udemy\Facturi\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Udemy\Facturi\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Udemy\Facturi\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Udemy\Facturi\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Udemy\Facturi\API\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\Udemy\Facturi\API\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\Udemy\Facturi\API\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Udemy\Facturi\API\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+D:\Udemy\Facturi\API\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+D:\Udemy\Facturi\API\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Udemy\Facturi\API\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+D:\Udemy\Facturi\API\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Udemy\Facturi\API\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Udemy\Facturi\API\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Udemy\Facturi\API\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Udemy\Facturi\API\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\Udemy\Facturi\API\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\Udemy\Facturi\API\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Udemy\Facturi\API\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\Udemy\Facturi\API\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Udemy\Facturi\API\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Udemy\Facturi\API\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\Udemy\Facturi\API\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\Udemy\Facturi\API\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\Udemy\Facturi\API\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Udemy\Facturi\API\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Udemy\Facturi\API\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Udemy\Facturi\API\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Udemy\Facturi\API\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Udemy\Facturi\API\bin\Debug\net6.0\Humanizer.dll
+D:\Udemy\Facturi\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Udemy\Facturi\API\bin\Debug\net6.0\MediatR.dll
+D:\Udemy\Facturi\API\bin\Debug\net6.0\MediatR.Contracts.dll
+D:\Udemy\Facturi\API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Udemy\Facturi\API\bin\Debug\net6.0\AutoMapper.dll
+D:\Udemy\Facturi\API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Udemy\Facturi\API\bin\Debug\net6.0\package-lock.json
+D:\Udemy\Facturi\API\bin\Debug\net6.0\FluentValidation.dll
+D:\Udemy\Facturi\API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+D:\Udemy\Facturi\API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Udemy\Facturi\API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Udemy\Facturi\API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Udemy\Facturi\API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Udemy\Facturi\API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Udemy\Facturi\API\obj\Debug\net6.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Udemy\Facturi\API\obj\Debug\net6.0\staticwebassets\msbuild.build.API.props
+D:\Udemy\Facturi\API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+D:\Udemy\Facturi\API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API.props
+D:\Udemy\Facturi\API\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\appsettings.Development.json
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\appsettings.json
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\package-lock.json
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\API.exe
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\API.deps.json
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\API.runtimeconfig.json
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\API.dll
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\API.pdb
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\AutoMapper.dll
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\FluentValidation.dll
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\Humanizer.dll
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\MediatR.dll
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\MediatR.Contracts.dll
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\runtimes\alpine-arm\native\libe_sqlite3.so
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\Application.dll
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\Domain.dll
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\Persistence.dll
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\Application.pdb
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\Domain.pdb
+E:\Udemy\Facturi _en\API\bin\Debug\net6.0\Persistence.pdb
+E:\Udemy\Facturi _en\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+E:\Udemy\Facturi _en\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Udemy\Facturi _en\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+E:\Udemy\Facturi _en\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+E:\Udemy\Facturi _en\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+E:\Udemy\Facturi _en\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+E:\Udemy\Facturi _en\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+E:\Udemy\Facturi _en\API\obj\Debug\net6.0\staticwebassets\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Udemy\Facturi _en\API\obj\Debug\net6.0\staticwebassets\msbuild.build.API.props
+E:\Udemy\Facturi _en\API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.API.props
+E:\Udemy\Facturi _en\API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.API.props
+E:\Udemy\Facturi _en\API\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Udemy\Facturi _en\API\obj\Debug\net6.0\staticwebassets.build.json
+E:\Udemy\Facturi _en\API\obj\Debug\net6.0\staticwebassets.development.json
+E:\Udemy\Facturi _en\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+E:\Udemy\Facturi _en\API\obj\Debug\net6.0\API.csproj.CopyComplete
+E:\Udemy\Facturi _en\API\obj\Debug\net6.0\API.dll
+E:\Udemy\Facturi _en\API\obj\Debug\net6.0\refint\API.dll
+E:\Udemy\Facturi _en\API\obj\Debug\net6.0\API.pdb
+E:\Udemy\Facturi _en\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+E:\Udemy\Facturi _en\API\obj\Debug\net6.0\ref\API.dll

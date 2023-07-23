@@ -1,0 +1,30 @@
+D:\Udemy\Facturi\Persistence\bin\Debug\net6.0\Persistence.deps.json
+D:\Udemy\Facturi\Persistence\bin\Debug\net6.0\Persistence.dll
+D:\Udemy\Facturi\Persistence\bin\Debug\net6.0\Persistence.pdb
+D:\Udemy\Facturi\Persistence\bin\Debug\net6.0\Domain.dll
+D:\Udemy\Facturi\Persistence\bin\Debug\net6.0\Domain.pdb
+D:\Udemy\Facturi\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+D:\Udemy\Facturi\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\Facturi\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+D:\Udemy\Facturi\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+D:\Udemy\Facturi\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Udemy\Facturi\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+D:\Udemy\Facturi\Persistence\obj\Debug\net6.0\Persistence.dll
+D:\Udemy\Facturi\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+D:\Udemy\Facturi\Persistence\obj\Debug\net6.0\Persistence.pdb
+D:\Udemy\Facturi\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+E:\Udemy\Facturi _en\Persistence\bin\Debug\net6.0\Persistence.deps.json
+E:\Udemy\Facturi _en\Persistence\bin\Debug\net6.0\Persistence.dll
+E:\Udemy\Facturi _en\Persistence\bin\Debug\net6.0\Persistence.pdb
+E:\Udemy\Facturi _en\Persistence\bin\Debug\net6.0\Domain.dll
+E:\Udemy\Facturi _en\Persistence\bin\Debug\net6.0\Domain.pdb
+E:\Udemy\Facturi _en\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+E:\Udemy\Facturi _en\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\Udemy\Facturi _en\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+E:\Udemy\Facturi _en\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+E:\Udemy\Facturi _en\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+E:\Udemy\Facturi _en\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+E:\Udemy\Facturi _en\Persistence\obj\Debug\net6.0\Persistence.dll
+E:\Udemy\Facturi _en\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+E:\Udemy\Facturi _en\Persistence\obj\Debug\net6.0\Persistence.pdb
+E:\Udemy\Facturi _en\Persistence\obj\Debug\net6.0\ref\Persistence.dll
